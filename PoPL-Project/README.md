@@ -118,7 +118,7 @@ int main() {
 
 ### Symbol Table
 
-![Symbol Table](/Images/table.png)
+![alt text](/Images/table.png)
 
 ### Printing Parse Tree Inorder 
 
