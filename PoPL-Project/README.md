@@ -118,7 +118,7 @@ int main() {
 
 ### Symbol Table
 
-![Symbol Table](PoPL-Project/Images/table.png)
+![Symbol Table](/PoPL-Project/Images/table.png)
 
 ### Printing Parse Tree Inorder 
 
