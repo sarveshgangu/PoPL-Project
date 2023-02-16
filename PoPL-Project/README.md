@@ -122,16 +122,16 @@ int main() {
 
 ### Printing Parse Tree Inorder 
 
-![Symbol Table](/Images/inorder.png)
+![Symbol Table](/PoPL-Project/Images/inorder.png)
 
 ### Visualising the Parse Tree 
 
-![Symbol Table](/Images/tree.png)
+![Symbol Table](/PoPL-Project/Images/tree.png)
 
 ### Semantic Phase
 
-![Symbol Table](/Images/semantic.png)
+![Symbol Table](/PoPL-Project/Images/semantic.png)
 
 ### Intermediate Code Generation
 
-![Symbol Table](/Images/icg.png)
+![Symbol Table](/PoPL-Project/Images/icg.png)
